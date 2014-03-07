@@ -1,4 +1,4 @@
-ChucK_stuff
+MTIID_ChucK
 ===========
 
-CalArts => ChucK programming language
+ChucK code, classes and chugens.
